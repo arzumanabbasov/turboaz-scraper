@@ -17,7 +17,7 @@ The `scrapecars.py` script utilizes the links obtained by `getlinks.py` to scrap
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arzumanabbasov/turbo-az-scraper.git
+   git clone https://github.com/arzumanabbasov/turboaz-scraper.git
    ```
 
 2. Install dependencies:
